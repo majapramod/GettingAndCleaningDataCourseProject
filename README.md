@@ -9,7 +9,7 @@
 ## Dataset Information
 * Source Dataset used is at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 * Description of the dataset can be found in http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-* This document shows how to read the dataset and convert it into tiday format.
+
 ==================================================================
 ## Files Included:
 This project contains 
